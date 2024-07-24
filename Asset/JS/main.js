@@ -92,4 +92,4 @@ blog_faqs.forEach(faq =>{
             icons.className="uil uil-plus"
         }
     })
-})
+});
